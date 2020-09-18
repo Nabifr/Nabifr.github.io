@@ -1,6 +1,6 @@
 # Hii There👋,
 
-[tampilkan_gambar]: http://github.com/Nabifr/Nabifr.github.io/snap/IMG_20200621_070023.jpg "Sorot gambar, akan keluar tulisan ini"
+![tampilkan_gambar] (http://github.com/Nabifr/Nabifr.github.io/snap/IMG_20200621_070023.jpg "Sorot gambar, akan keluar tulisan ini")
 Perkenalkan Nama Saya Husni Nabil Fareno biasa dipanggil Reno, umur Saya 18 tahun, Agama Islam,  Hobi Saya adalah Musik dan Teknologi, hah teknologi? Iya, Saya suka hal-hal yang berbau teknologi makanya Saya Masuk Kuliah di jurusan SI ( Sistem Informasi) S1 agar nantinya saat Saya lulus kuliah dapat Berguna Bagi Nusa bangsa dan Negara Tercinta ini :).
 
 ## Sekilas kisah😀
