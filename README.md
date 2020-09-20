@@ -5,3 +5,27 @@ Perkenalkan Nama Saya Husni Nabil Fareno biasa dipanggil Reno, umur Saya 18 tahu
 
 ## Sekilas kisah😀
 Saya sejak kelas 4 SD sudah tertarik dengan Teknologi, saat Pertama kali kakak Saya membeli Laptop, setiap pulang dari SD Saya selalu meminjam laptop Kakak Saya untuk apa?  bermain Game? Tentu saja tidak. Waktu seiring berganti Saya mencoba Mengeksplorasi Laptop, dengan mencoba memahami setiap fungsi apilikasi yang Saya buka, dan tidak lupa browsing di Google. Pelajaran favorit Saya sewaktu SD adalah TIK (waktu itu masih bermain di apilikasi _Instant Artist, M.S. Word, M.S. Excel, dan M.S. PowerPoint_).
+
+
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://nabifr-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
