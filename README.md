@@ -7,21 +7,11 @@ Perkenalkan Nama Saya Husni Nabil Fareno biasa dipanggil Reno, umur Saya 18 tahu
 Saya sejak kelas 4 SD sudah tertarik dengan Teknologi, saat Pertama kali kakak Saya membeli Laptop, setiap pulang dari SD Saya selalu meminjam laptop Kakak Saya untuk apa?  bermain Game? Tentu saja tidak. Waktu seiring berganti Saya mencoba Mengeksplorasi Laptop, dengan mencoba memahami setiap fungsi apilikasi yang Saya buka, dan tidak lupa browsing di Google. Pelajaran favorit Saya sewaktu SD adalah TIK (waktu itu masih bermain di apilikasi _Instant Artist, M.S. Word, M.S. Excel, dan M.S. PowerPoint_).
 
 
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes
-or No?:>http://www.google.com
-io=>inputoutput: catch something...
-para=>parallel: parallel tasks
-
-st->op1->cond
-cond(yes)->io->e
-cond(no)->para
-para(path1, bottom)->sub1(right)->op1
-para(path2, top)->op1
-
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 
 
 <div id="disqus_thread"></div>
