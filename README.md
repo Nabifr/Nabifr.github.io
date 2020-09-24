@@ -1,10 +1,10 @@
 # Hii There👋,
 
 ![Za_Warudo](/snap/IMG_20200621_070023.jpg "Road to Natasangin Peak, Muncak Skuy")
-Perkenalkan Nama Saya Husni Nabil Fareno biasa dipanggil Reno, umur Saya 18 tahun, Agama Islam,  Hobi Saya adalah mendengarkan Musik, Mencoba hal yang baru dan Teknologi, hah teknologi? Iya, Saya suka hal-hal yang berbau teknologi makanya saat ini Saya sedang menempuh KUliah di UMK (Universitas Muria Kudus), jurusan SI (Sistem Informasi) S1 agar nantinya saat Saya lulus kuliah dapat Berguna Bagi Nusa bangsa dan Negara Tercinta ini :).
+Perkenalkan Nama Saya Husni Nabil Fareno biasa dipanggil Reno, umur Saya 18 tahun, Agama Islam,  Hobi Saya adalah mendengarkan Musik, Mencoba hal yang baru dan Teknologi, hah teknologi? Iya, Saya suka hal-hal yang berbau teknologi, makanya saat ini Saya sedang menempuh KUliah di UMK (Universitas Muria Kudus), jurusan SI (Sistem Informasi) S1 agar nantinya saat Saya lulus kuliah dapat Berguna Bagi Nusa bangsa dan Negara Tercinta ini :). Kenapa Saya Menggunakan Github untuk membuat artikel? Kenapa tidak menggunakan Wordpress atau Blogspot? karena Saat ini Saya sedang Belajar menggunakan bahasa Markdown, dulu Saya sudah pernah Menggunakan Blogspot saat tugas waktu SMP, saat ini Saya sedang mencoba hal yang Baru yang belum pernah Saya coba sebelumnya.
 
-## Sekilas kisah😀
-Saya sejak kelas 4 SD sudah tertarik dengan Teknologi, saat Pertama kali kakak Saya membeli Laptop, setiap pulang dari SD Saya selalu meminjam laptop Kakak Saya untuk apa?  bermain Game? Tentu saja tidak. Waktu seiring berganti Saya mencoba Mengeksplorasi Laptop, dengan mencoba memahami setiap fungsi apilikasi yang Saya buka, dan tidak lupa browsing di Google. Pelajaran favorit Saya sewaktu SD adalah TIK (waktu itu masih bermain di apilikasi _Instant Artist, M.S. Word, M.S. Excel, dan M.S. PowerPoint_).
+## Sekilas kisah
+Saya sejak kelas 4 SD sudah tertarik dengan Teknologi, saat Pertama kali kakak Saya membeli Laptop, setiap pulang dari SD Saya selalu meminjam laptop Kakak Saya untuk apa?  bermain Game? Tentu saja tidak. Waktu seiring berganti Saya mencoba Mengeksplorasi Laptop, dengan mencoba memahami setiap fungsi apilikasi yang Saya buka, dan tidak lupa browsing di Google. Pelajaran favorit Saya sewaktu SD adalah TIK (waktu itu masih bermain di apilikasi _Instant Artist, M.S. Word, M.S. Excel, dan M.S. PowerPoint_). 
 
 
 
